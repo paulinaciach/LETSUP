@@ -490,4 +490,4 @@ Opis osiągniętych rezultatów – Tabela wyników testów :
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dZJmSyY4YWs/0.jpg)](https://www.youtube.com/watch?v=dZJmSyY4YWs)
 
 
-
+  
